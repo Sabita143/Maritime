@@ -155,8 +155,8 @@ Article 21: Compliance balance pooling
 
 Note: This is a frontend demonstration application. For production use, integrate with proper backend services and implement comprehensive error handling.
 
-Name -Rohit Kumar
-mobile: 8651712231
-gmail:kumarrohit2551997@gmail.com
-github link: https://github.com/krohit2552/FuelEU-Maritime
+Name -Sabita Kumari
+mobile: 7870053693
+gmail:sabitachauhan7870@gmail.com
+github link: https://github.com/Sabita143/Maritime
 demo: https://claude.ai/public/artifacts/12c5c466-9fb3-4c60-a30e-43078d876615
